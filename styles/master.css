@@ -29,8 +29,10 @@ p {
 }
 
 .navlinks {
-  color: white;
   font-size: 18px;
+}
+
+.underline {
   text-decoration: underline;
 }
 
@@ -38,7 +40,6 @@ p {
   background-image: url("../images/the-flatiron-building.png");
   background-color: gray;
 }
-
 
 #footer {
   background-color: dimgray;
